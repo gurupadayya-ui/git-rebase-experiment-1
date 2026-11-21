@@ -1,1 +1,2 @@
-# git-rebase-experiment-1
+# git-rebase-experiment-1 My local feature updates
+
